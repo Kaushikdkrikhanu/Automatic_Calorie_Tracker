@@ -40,3 +40,5 @@ _darcs
 **/node_modules
 yarn.lock
 package-lock.json
+
+resnet50_model.h5
